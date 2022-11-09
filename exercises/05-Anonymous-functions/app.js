@@ -4,5 +4,4 @@ let multy = function(a,b){
 //Dont edit anything ABOVE this line
 
 //your code here
-
-javascript-function-exercises-tutorial
+console.log(multy(324234,47))

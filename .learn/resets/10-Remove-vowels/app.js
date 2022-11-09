@@ -8,5 +8,5 @@ const rapid = (myString) => {
 };
 
 // Work above this line; do not change code below
-let str = "Jhn";
-console.log(rapid(str.toUpperCase()));
+let str = "John";
+console.log(rapid(str));
